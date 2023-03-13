@@ -4,7 +4,7 @@ public class Carrito {
 	
 	private Producto productos[]; //vector donde almacenaré los productos
 	
-	private static int productosGuardados; //variable que me sirve para saber cuántos productos hay
+	private int productosGuardados; //variable que me sirve para saber cuántos productos hay
 	
 	public Carrito(int cantidadProductos) { //creo un único constructor que me pide la cantidad de productos a guardar
 		productos=new Producto[cantidadProductos]; //le doy dimensión a mi array
