@@ -1,0 +1,23 @@
+20-33507982-1|roberto@gmail.com.ar|Roberto López
+27-23990127-5|mariaana@hotmail.com|Ana María Gutiérrez
+30-11303821-1|cocacola@gmail.org.ar|Coca Cola SRL
+30-30834581-3|renault@live.com.br|Renault Brazil SA
+27-44320973-2|hola@chau.com.gov.ar.edu.utn.frvm|
+||
+20-35902753-1|este@@no.com|Un ejemplo
+20-35902753-1|est.e@no.com|Un ejemplo
+20-35902753-1|ESTE@no.com|Un ejemplo
+20-35902753-1 este@no.com|Un ejemplo
+20-35902753-1|este@si.com|Un 3j3mpl0
+20-35902753-1|este@si.com|
+20-35902753-1|este@no.com.|Un ejemplo
+20-35902753-1|este@no.com
+20-35902753|este@no.com|Un ejemplo
+20-35902753-a|este@no.com|Un ejemplo
+20-5902753-0|este@no.com|Un ejemplo
+2-35902753-0|este@no.com|Un ejemplo
+20- 35902753-0|este@no.com|Un ejemplo
+qwejqjjdjqwjeje
+gllkgjldfgldfkgldk
+ezequiel@hotmail.com
+27-43889351-1
